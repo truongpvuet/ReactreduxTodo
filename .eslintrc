@@ -1,0 +1,4 @@
+{
+  "extends": "rallycoding",
+  "linebreak-style": ["error", "windows"]
+}
